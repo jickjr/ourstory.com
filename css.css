@@ -1,0 +1,38 @@
+.1 {
+	background-image: url(".jpg");
+	min-height : 980px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position : relative;
+}
+	.topnav {
+	overflow:hidden;
+	background-color: gray;
+	font-size : 26px;
+}
+
+.topnav a {
+	float : left
+	color:#f2f2f2;
+	text-align: center;
+	padding : 14px 16px;
+	text-decoration: none;
+	font-size: 17px;
+	font-size : 26px;
+}
+
+.topnav a:hover {
+	background-color : #ddd;
+	color : black;
+	font-size : 26px;
+}
+h1 {
+	text-align: center;
+	font-size : 45px;
+}
+video {
+	border: 6px solid black;
+}
+body {
+	background-color: #e703fc;
+}
